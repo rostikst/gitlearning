@@ -5,3 +5,4 @@ place_of_living = raw_input("Where are you live?\n")
 print "Hello " + name + "!",
 print "Your age is " + age + "!",
 print "You live in " + place_of_living + "!"
+print "End"!
